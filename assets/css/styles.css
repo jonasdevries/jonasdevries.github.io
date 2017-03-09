@@ -99,6 +99,9 @@ p {
 .sidebar-wrapper .contact-list .email .fa {
   font-size: 14px;
 }
+.sidebar-wrapper .contact-list .location .fa {
+  font-size: 14px;
+}
 .sidebar-wrapper .container-block {
   padding: 30px;
 }
