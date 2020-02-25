@@ -1,6 +1,6 @@
 # Jonas Devries resume
 
-## For English!
+## For English
   - Press 1 [or click here](https://jonasdevries.github.io/en/)   
 
 ## Voor Nederlands
